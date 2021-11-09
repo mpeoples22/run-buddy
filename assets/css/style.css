@@ -3,11 +3,13 @@
   padding: 0;
   box-sizing: border-box;
   }
+
 body {
     /* more on this crazy alphanumerical value in a minute! */
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
   }
+
   /* apply styles to <header> */
 header {
     padding: 20px 35px;
@@ -25,6 +27,7 @@ header a{
     text-decoration: none;
     color: #fce138;
   }
+
 header nav {
    float: right;
    margin: 7px 0;
@@ -61,9 +64,11 @@ footer div {
 footer a {
   color: #024e76;
   }
+
 section {
   padding: 60px;
   }
+  
 /*Hero Style Start*/
 .hero {
   background-image: url("../images/hero-bg.jpeg");
