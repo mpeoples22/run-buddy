@@ -162,7 +162,6 @@ section {
   margin: 0 auto 30px auto;
   background: #024e76;
   color: #fce138;
-  margin: 0 auto 30px auto;
   overflow: auto;
 }
 .trainer img {
@@ -222,7 +221,11 @@ section {
   margin: 30px 0 0 60px;
   color: white;
 }
-.contact-info he{
+.contact-info h3{
+  color: #fce138;
+  font-size: 32px;
+}
+.contact-info h3 {
   color: #fce138;
   font-size: 32px;
 }
@@ -231,4 +234,15 @@ section {
   line-height: 1.5;
   font-size: 20px;
   font-style: normal;
+}
+.contact-info a {
+  color: #fce138;
+}
+/* REACH OUT STYLES END */
+/*homepage hero*/
+.hero{
+  margin: 20px;
+  background-color: white;
+  font-size: 20px;
+  color: blue;
 }
